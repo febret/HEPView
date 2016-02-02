@@ -1,4 +1,4 @@
-<img src="http://febret.github.io/HEPView/screenshot.png" width = 500/>
+<img src="https://raw.githubusercontent.com/febret/HEPView/master/screenshot.png" width = 500/>
 
 to use HEPView, you need to install omegalib with the **signac** module. Download the Omegalib installer here: http://uic-evl.github.io/omegalib/
 
